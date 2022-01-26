@@ -1,6 +1,10 @@
+![Cover](https://user-images.githubusercontent.com/88970775/151161721-3f26a01d-4228-4035-b6b1-ee57e59f130d.png)
+
+
 # shamo
 
 A new Flutter project.
+
 
 ## Getting Started
 
