@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500070161443",
+    "project_id": "shamo-e0827",
+    "storage_bucket": "shamo-e0827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500070161443:android:a8e271b407253550b02596",
+        "android_client_info": {
+          "package_name": "com.adityaa.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500070161443-aunsat7vn93o8uvg4ju6unto069vi3rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDsh2Yo4o081K9nYNNDdY-3mlS_Ez3Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500070161443-aunsat7vn93o8uvg4ju6unto069vi3rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
